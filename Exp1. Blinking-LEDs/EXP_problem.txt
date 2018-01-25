@@ -1,0 +1,4 @@
+Exp. name - Controlling blinking LEDs using microcontroller.
+	-Turn on each one of 8 LEDs in order and then extinguish them in order.
+	-Lights up 8 LEDs from top to bottom and then goes backwards so only one LED is on at any time.
+	-Lights up 8 LED in any order/pattern.
