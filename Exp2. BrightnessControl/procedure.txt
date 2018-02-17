@@ -1,0 +1,7 @@
+Procedure:
+1.  At first, we constructed the required circuit for the experiment as illustrated in the circuit diagram.
+2. While making the circuit, we connected the anode (longer side) of the LED to the Arduino digital pin and negative (shorter side) to ground.
+3. As we are using PWM to control brightness so we used Arduino uno’s digital pin no of 3, 5, 6 and 9 to analog write the values. We also used a switch and indicator (LED) to control state of the brightness.
+4. We assured the circuit to be exactly same as illustrated one and all wires /nodes are perfectly connected. We didn’t use resistor as we are not using power source more than 5V.
+5. Code upload: After Creating the Circuit, we wrote the program/ sketch on Arduino IDE. Then complied the code to verify errors and after that we uploaded the code to the board. At last we checked if the code is working as desired or not and finalize it.
+
